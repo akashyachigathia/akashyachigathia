@@ -13,5 +13,5 @@
   - https://www.behance.net/gallery/130654787/Social-Media-Mockup
  
 <h2>👨‍💻 Web Projects:</h2>
-- https://akashyachigathia.github.io/Apparel-Sourcing-Week--2/<br>
-- https://akashyachigathia.github.io/Emailer/
+  - https://akashyachigathia.github.io/Apparel-Sourcing-Week--2/<br>
+  - https://akashyachigathia.github.io/Emailer/
