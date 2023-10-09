@@ -14,3 +14,4 @@
  
 <h2>👨‍💻 Web Projects:</h2>
 - https://akashyachigathia.github.io/Apparel-Sourcing-Week--2/
+- https://akashyachigathia.github.io/Emailer/
